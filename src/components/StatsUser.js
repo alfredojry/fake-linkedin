@@ -1,6 +1,10 @@
+import '../styles/StatsUser.css';
+
 function StatsUser () {
     return (
-        <div></div>
+        <div className='StatsUser'>
+            <h2>Eficiência</h2>
+        </div>
     );
 }
 

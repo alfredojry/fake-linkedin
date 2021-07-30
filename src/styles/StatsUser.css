@@ -1,0 +1,11 @@
+.StatsUser {
+    background-color: white;
+    height: 300px;
+    width: 22%;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.StatsUser > h2 {
+    text-align: center;
+}
