@@ -1,0 +1,37 @@
+{
+    "user": {
+        "name": "Alfredo Jimenez",
+        "user": "alfredojry",
+        "position": "Desenvolvedor Full - Stack",
+        "city": "Rio Branco",
+        "state": "AC",
+        "country": "Brasil",
+        "company": "Autônomo",
+        "institute": "UNEXPO",
+        "image": "https://avatars.githubusercontent.com/u/43357527?v=4"
+    },
+    "posts": [
+        {
+            "nameFriend": "Ana Daros",
+            "imageFriend": "https://avatars.githubusercontent.com/u/6866022?s=96&v=4",
+            "time": "Há cerca de 8 horas",
+            "whoCanView": "Somente Eu",
+            "logoPublic": "https://www.svgrepo.com/show/18383/lock.svg",
+            "content": "Olá pessoal.",
+            "numberComents": 0,
+            "likes": 0,
+            "shares": 0
+        },
+        {
+            "nameFriend": "Heloá Meneses",
+            "imageFriend": "https://avatars.githubusercontent.com/u/13964550?s=96&v=4",
+            "time": "Há 8 dias",
+            "whoCanView": "Público",
+            "logoPublic": "https://www.svgrepo.com/show/137733/world.svg",
+            "content": "Acabo de começar um interesante projeto.",
+            "numberComents": 0,
+            "likes": 1,
+            "shares": 3
+        }
+    ]
+}
